@@ -1,5 +1,4 @@
 # go-evel
-Golang client for AT&amp;T EVEL library.
-
-https://github.com/att/evel-library
+This project contains a Golang implementaton of a library that supports interfacing to AT&T's ECOMP Vendor Event Listener
+https://github.com/onap/vnfsdk-ves-agent
 
